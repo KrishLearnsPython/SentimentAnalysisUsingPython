@@ -19,10 +19,10 @@ This project is a web application built using Streamlit that performs sentiment 
 
 *Pre-requisites*
 Install the following modules before running the code in your system:
-1) TextBlob: >>>pip install textblob
-2) Streamlit: >>>pip install streamlit
+1) TextBlob: pip install textblob
+2) Streamlit: pip install streamlit
 
 *Running the Streamlit Code*
 Suppose the file name is app.py. Use the following terminal command to run it:
->>> streamlit run app.py
+streamlit run app.py
 
