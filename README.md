@@ -1,6 +1,7 @@
 # Sentiment Analysis Using Python, Streamlit and TextBlob
 
 *Overview*
+
 This project is a web application built using Streamlit that performs sentiment analysis on user-provided text. It utilizes the TextBlob library to analyze the emotional tone of the text and provides insights into its polarity and subjectivity.
 
 *Features*
